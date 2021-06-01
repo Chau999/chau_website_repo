@@ -1,11 +1,10 @@
 ---
-title: "Publication 2"
+title: "Learning Inconsistent Preferences with Kernel Methods"
 collection: publications
-permalink: /publications/publication2
-excerpt: "This is an example of a paper in prep"
-date: 2018-05-03
-venue: 'In Prep'
-publ: "false"
+permalink: /publications/LIPKM
+excerpt: "We propose a probabilistic kernel approach for preferential learning from pairwise duelling data using Gaussian Processes. Different from previous methods, we do not impose a total order on the item space, hence can capture more expressive latent preferential structures such as inconsistent preferences and clusters of comparable items."
+date: 2020-06-06
+venue: 'Arxiv'
 ---
 
 ### Summary
