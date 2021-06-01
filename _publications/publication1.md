@@ -1,22 +1,13 @@
 ---
-title: "Publication 1"
+title: "Spectral Ranking with Covariates"
 collection: publications
 permalink: /publications/publication1
-excerpt: "We did some things and then published them."
-date: 2012-03-20
-venue: 'Journal'
+excerpt: "We consider approaches to the classical problem of establishing a statistical ranking on a given set of items from incomplete and noisy pairwise comparisons, and propose spectral algorithms able to leverage available covariate information about the items through the lens of reproducing kernel Hilbert spaces. "
+date: 2020-05-08
+venue: 'Arxiv'
 classes: wide
 ---
-## Summary
-tl;dr
-
-## Contribution
-This is what I did!
-
 ## Abstract
-Super details
+We consider approaches to the classical problem of establishing a statistical ranking on a given set of items from incomplete and noisy pairwise comparisons, and propose spectral algorithms able to leverage available covariate information about the items. We give a comprehensive study of several ways such side information can be useful in spectral ranking. We establish connections of the resulting algorithms to reproducing kernel Hilbert spaces and associated dependence measures, along with an extension to fair ranking using statistical parity. We present an extensive set of numerical experiments showcasing the competitiveness of the proposed algorithms with state-of-the-art methods.
 
-[Download paper here](https://www.paper.link/)
-
-## Recommended citation:
-Name2 et al. "Publication 1", 2012 (Journal 1)
+[Download paper here](https://arxiv.org/abs/2005.04035)
