@@ -30,6 +30,7 @@
       {% if post.venue == 'In Prep' %}
         {{post.date | default: "1900-01-01" | date: "%Y" }}, In Prep
       {% else %}
+        {{post.authors}}
         Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
       {% endif %}
     </div>
