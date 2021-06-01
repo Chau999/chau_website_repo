@@ -14,4 +14,4 @@ classes: wide
   {% include archive-single.html %}
 {% endfor %}
 
----
+------------
