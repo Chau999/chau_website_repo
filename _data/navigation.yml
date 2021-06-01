@@ -2,8 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "Talks"
-    url: /talks/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
@@ -12,7 +10,8 @@ main:
     url: /contact/    
 
 
-
+  # - title: "Talks"
+  #   url: /talks/
 
   # - title: "Code"
   #   url: /code/
