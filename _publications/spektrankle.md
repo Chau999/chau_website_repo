@@ -1,7 +1,7 @@
 ---
 title: "Spectral Ranking with Covariates"
 collection: publications
-permalink: /publications/publication1
+permalink: /publications/spektrankle
 excerpt: "We consider approaches to the classical problem of establishing a statistical ranking on a given set of items from incomplete and noisy pairwise comparisons, and propose spectral algorithms able to leverage available covariate information about the items through the lens of reproducing kernel Hilbert spaces. "
 date: 2020-05-08
 venue: 'Arxiv'
