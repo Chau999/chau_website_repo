@@ -17,15 +17,21 @@ a.uline {text-decoration:underline;}
 
 ## Education
 ---
-**In Progress**<br>
-Ph.D. in Knowledge<br>
-University<br>
-*Advisor: Prof. Albert Einstein*
+**2018 - Present**<br>
+DPhil in Statistical Machine Learning <br>
+University of Oxford<br>
+*Advisor: Prof. Dino Sejdinovic, Prof. Mihai Cucuringu, Prof. Xiaowen Dong*
+- Recipient of the EPSRC & MRC Studentship for DPhil in Statistical Machine Learning
 
-**1990-2010**<br>
-B.S. in Partying<br>
-School<br>
-*Advisor: Prof. Paul Dirac*
+**2017-2018**<br>
+MMATH Mathematics and Statistics<br>
+University of Oxford<br>
+- First Class (Ranked 2nd of the year)
+
+**2014-2017**<br>
+BA Mathematics and Statistics<br>
+University of Oxford<br>
+- First Class (Ranked 1st of the year)
 
 ## Research experience
 ---
