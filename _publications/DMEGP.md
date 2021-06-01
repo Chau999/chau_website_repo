@@ -5,13 +5,14 @@ permalink: /publications/DMEGP
 excerpt: " We propose a Bayesian solution for statistical downscaling which handles unmatched multi-resolution data through the Deconditional Mean Operator"
 authors: "S. Chau*, S. Bouabid* D. Sejdinovic"
 date: 2021-05-27
-venue: 'Arxiv'
+venue: 'arXiv:2105.12909'
 ---
 
 ## TL;DR
-We proposed a graph learning algorithm to recover topological structure from observed graph signals. 
+We propose a Bayesian solution for statistical downscaling which handles unmatched multi-resolution data through the Deconditional Mean Operator 
 
 ## Abstract
-The problem of graph learning concerns the construction of an explicit topological structure revealing the relationship between nodes representing data entities, which plays an increasingly important role in the success of many graph-based representations and algorithms in the field of machine learning and graph signal processing. In this paper, we propose a novel graph learning framework that incorporates prior information along node and observation side, and in particular the covariates that help to explain the dependency structures in graph signals. To this end, we consider graph signals as functions in the reproducing kernel Hilbert space associated with a Kronecker product kernel, and integrate functional learning with smoothness-promoting graph learning to learn a graph representing the relationship between nodes. The functional learning increases the robustness of graph learning against missing and incomplete information in the graph signals. In addition, we develop a novel graph-based regularisation method which, when combined with the Kronecker product kernel, enables our model to capture both the dependency explained by the graph and the dependency due to graph signals observed under different but related circumstances, e.g. different points in time. The latter means the graph signals are free from the i.i.d. assumptions required by the classical graph learning models. Experiments on both synthetic and real-world data show that our methods outperform the state-of-the-art models in learning a meaningful graph topology from graph signals, in particular with heavy noise, missing values, and multiple dependency.
+Refining low-resolution (LR) spatial fields with high-resolution (HR) information is challenging as the diversity of spatial datasets often prevents direct matching of observations. Yet, when LR samples are modeled as aggregate conditional means of HR samples with respect to a mediating variable that is globally observed, the recovery of the underlying fine-grained field can be framed as taking an inverse of the conditional expectation, namely a deconditioning problem. %In this work, we introduce conditional mean processes, a new class of Gaussian processes describing conditional means, and establish their posterior as a solution to the deconditioning problem. In this work, we introduce conditional mean process (CMP), a new class of Gaussian Processes describing conditional means. By treating CMPs as inter-domain features of the underlying field, a posterior for the latent field can be established as a solution to the deconditioning problem. Furthermore, we show that this solution can be viewed as a two-staged vector-valued kernel ridge regressor and show that it has a minimax optimal convergence rate under mild assumptions. Lastly, we demonstrate its proficiency in a synthetic and a real-world atmospheric field downscaling problem, showing substantial improvements over existing methods.
 
-[Download paper here](https://ieeexplore.ieee.org/abstract/document/9356326)
+[Download paper here](https://arxiv.org/abs/2105.12909)
+
