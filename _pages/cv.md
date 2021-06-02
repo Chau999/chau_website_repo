@@ -43,7 +43,8 @@ Developed predictive model behind [*ginipredict*](https://www.gini.co/), a forec
 
 **2019 - Present** <br>
 **Catalyst AI** | Machine Learning Consultant <br>
-
+(AgriTech) Developed a crop growth forecasting and irrigation scheduling model for an AgriTech software company. <br>
+(Fashion Retail) Developed a markdown price optimisation model for seasonal sales for a fashion retail company.<br>
 
 **2017 - Present** <br>
 **Cambridge Spark** | Content Developer & Teaching Fellow <br>
