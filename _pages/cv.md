@@ -34,13 +34,14 @@ University of Oxford<br>
 ---
 
 **2020 - 2021** <br>
-gini | In-house Machine Learning Consultant <br>
+**gini** | In-house Machine Learning Consultant <br>
+Developed predictive model behind [*ginipredict*](https://www.gini.co/) 
 
 **2019 - Present** <br>
-Catalyst AI | Machine Learning Consultant <br>
+**Catalyst AI** | Machine Learning Consultant <br>
 
 **2017 - Present** <br>
-Content Developer & Teaching Fellow <br>
+**Cambridge Spark** | Content Developer & Teaching Fellow <br>
 
 
 
