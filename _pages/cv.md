@@ -20,7 +20,7 @@ a.uline {text-decoration:underline;}
 **2018 - Present**<br>
 DPhil in Statistical Machine Learning <br>
 University of Oxford<br>
-*Advisor: Prof. Dino Sejdinovic, Prof. Mihai Cucuringu, Prof. Xiaowen Dong*
+*Advisor: Prof. Dino Sejdinovic, Prof. Mihai Cucuringu, Prof. Xiaowen Dong* <br>
   Recipient of the EPSRC & MRC Studentship for DPhil in Statistical Machine Learning
 
 **2017-2018**<br>
