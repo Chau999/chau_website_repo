@@ -18,27 +18,32 @@ a.uline {text-decoration:underline;}
 ## Education
 ---
 **2018 - Present**<br>
+**University of Oxford**<br>
 DPhil in Statistical Machine Learning <br>
-University of Oxford<br>
 *Advisor: Prof. Dino Sejdinovic, Prof. Mihai Cucuringu, Prof. Xiaowen Dong* <br>
+Recipient of the EPSRC & MRC Studentship for DPhil in Machine Learning <br>
+
 
 **2017-2018**<br>
-MMATH Mathematics and Statistics (First Class)<br>
-University of Oxford<br>
+**University of Oxford**<br>
+MMATH Mathematics and Statistics <br>
+First Class Honours, Ranked 2nd of the year
 
 **2014-2017**<br>
+**University of Oxford**<br>
 BA Mathematics and Statistics (First Class)<br>
-University of Oxford<br>
+First Class Honours, Ranked 1st of the year.
 
 ## Industry experience
 ---
 
 **2020 - 2021** <br>
 **gini** | In-house Machine Learning Consultant <br>
-Developed predictive model behind [*ginipredict*](https://www.gini.co/) 
+Developed predictive model behind [*ginipredict*](https://www.gini.co/), a forecasting tool built for decision-makers who aren't data scientists.
 
 **2019 - Present** <br>
 **Catalyst AI** | Machine Learning Consultant <br>
+
 
 **2017 - Present** <br>
 **Cambridge Spark** | Content Developer & Teaching Fellow <br>
