@@ -39,7 +39,7 @@ First Class Honours, Ranked 1st of the year.
 
 **2020 - 2021** <br>
 **gini** | In-house Machine Learning Consultant <br>
-Developed predictive model behind [*ginipredict*](https://www.gini.co/), a forecasting tool built for decision-makers who aren't data scientists.
+Developed predictive model behind *[ginipredict]*(https://www.gini.co/), a forecasting tool built for decision-makers who aren't data scientists.
 
 **2019 - Present** <br>
 **Catalyst AI** | Machine Learning Consultant <br>
@@ -48,6 +48,20 @@ Developed predictive model behind [*ginipredict*](https://www.gini.co/), a forec
 
 **2017 - Present** <br>
 **Cambridge Spark** | Content Developer & Teaching Fellow <br>
+Designed machine learning projects (e.g SnP500 time series analysis, Kickstarter product success rate model etc.) for *[KATE]*(https://cambridgespark.com/kate/), a proprietary AI-powered learning and assessment platform for upskilling in Data Science. <br>
+Organised bootcamps for the Applied Data Science course where I taught modules on time series, Explainable AI and recommender systems. <br>
+
+## University invovlement
+
+**2019 - Present** <br>
+**Juvenate HK** | Advisor <br>
+Provided advices for growing and managing *[Juvenate]*(https://www.linkedin.com/company/juvenate-hk/mycompany/), a consultancy for helping social enterprise and NGOs to deliver greater social impact. <br>
+
+**2017 - 2019** <br>
+**[Oxford Strategy Group Digial]**(https://www.osgdigitallabs.com/) | Co-founder, Managing Director <br>
+Launched and managed Oxford's first machine learning consultancy with over 50 consultants, with over 30% being DPhil students. <br>
+Pitched 6 projects to multinational clients and maintained a diverse portfolio ranging from FTSE100 companies to Tech startups such as P&G, Unilever, MedTech and banks. <br>
+Partnered with industrial players such as Quantum Black, BCG Gamma, OC&C and CambridgeSpark. <br>
 
 
 
