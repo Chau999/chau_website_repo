@@ -21,18 +21,18 @@ a.uline {text-decoration:underline;}
 **University of Oxford**<br>
 DPhil in Statistical Machine Learning <br>
 *Advisor: Prof. Dino Sejdinovic, Prof. Mihai Cucuringu, Prof. Xiaowen Dong* <br>
-Recipient of the EPSRC & MRC Studentship for DPhil in Machine Learning <br>
+•	Recipient of the EPSRC & MRC Studentship for DPhil in Machine Learning <br>
 
 
 **2017-2018**<br>
 **University of Oxford**<br>
 MMATH Mathematics and Statistics <br>
-First Class Honours, Ranked 2nd of the year
+•	First Class Honours, Ranked 2nd of the year
 
 **2014-2017**<br>
 **University of Oxford**<br>
 BA Mathematics and Statistics (First Class)<br>
-First Class Honours, Ranked 1st of the year.
+•	First Class Honours, Ranked 1st of the year.
 
 ## Industry experience
 ---
@@ -64,41 +64,15 @@ First Class Honours, Ranked 1st of the year.
 •	Pitched 6 projects to multinational clients and maintained a diverse portfolio ranging from FTSE100 companies to Tech startups such as P&G, Unilever, MedTech and banks. <br>
 •	Partnered with industrial players such as Quantum Black, BCG Gamma, OC&C and CambridgeSpark. <br>
 
-
-
-## Research experience
----
-
-**2015 - Present**<br>
-Position<br>
-I accomplished some things.<br>
-*Relevant Publications: <a href="../publications/publication1" class="uline">Name2 et al. 2016</a>*<br>
-
-
-## Service and Outreach
----
-**2013 - Present**<br>
-Outreach<br>
-
-
 ## Publications
 ---
-**Name2** et al. "Title of paper 1", 2016.
+
+• **Chau, Siu Lun***, Shahine Bouabid*, and Dino Sejdinovic. "Deconditional Downscaling with Gaussian Processes." arXiv preprint arXiv:2105.12909 (2021).
 
 
+• Pu, X., **Chau, S. L**., Dong, X., & Sejdinovic, D. (2021). Kernel-Based Graph Learning From Smooth Signals: A Functional Viewpoint. IEEE Transactions on Signal and Information Processing over Networks, 7, 192-207
 
-## Awards and Honors
----
-Best Jekyll Theme, *Spring 2018*<br>
+•	**Chau, Siu Lun**, Javier González, and Dino Sejdinovic. "Learning Inconsistent Preferences with Kernel Methods." arXiv preprint arXiv:2006.03847 (2020).
 
+•	**Chau, Siu Lun**, Mihai Cucuringu, and Dino Sejdinovic. "Spectral Ranking with Covariates." arXiv preprint arXiv:2005.04035 (2020) <br>
 
-## Talks and Presentations
----
-"Seminar 17", University Colloquium, *March 2018*
-
-
-## Teaching
----
-**Summer 1900**<br>
-Primary Instructor<br>
-*Quantum Field Theory 101*
