@@ -6,10 +6,10 @@ main:
     url: /teaching/
   - title: "CV"
     url: /cv/
-  - title: "Contact"
-    url: /contact/    
 
 
+  # - title: "Contact"
+  #   url: /contact/    
   # - title: "Talks"
   #   url: /talks/
 
