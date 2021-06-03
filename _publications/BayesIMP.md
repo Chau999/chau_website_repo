@@ -2,7 +2,7 @@
 title: "BayesIMP: Uncertainty Quantification for Causal Data Fusion"
 collection: publications
 permalink: /publications/bayesimp
-excerpt: "We study the causal data fusion problem, where datasets pertaining to multiple to multiple causal graphs are combine to estimate the average treatment effect of a target variable. In particular, uncertainty quantification is essential as data coming from multiple sources can vary in quality and quantity. To that end, we propose Bayesian Interventional Mean Processes (BayesIMP), an algorithm which allows one to represent interventional distributions in the reproducing kernel Hilbert space, while taking into account the uncertainty within each causal graph."
+excerpt: "We proposed Bayesian Interventional Mean Processes (BayesIMP), an algorithm which allows one to quantify uncertainty while representing interventional densities p(y|do(x)) in the reproducing kernel Hilbert space (RKHS). "
 authors: "S. Chau*, J. Ton*, J. Gonzalez, Y. Teh, D. Sejdinovic"
 date: 2021-05-29
 venue: 'In Prep'
