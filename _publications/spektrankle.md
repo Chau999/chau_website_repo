@@ -6,6 +6,7 @@ excerpt: "We consider approaches to the classical problem of establishing a stat
 date: 2020-05-08
 venue: 'arXiv:2005.04035'
 authors: "S. Chau, M. Cucuringu, D. Sejdinovic"
+related_area: "Related Areas: Ranking, Fairness, Kernel Methods"
 classes: wide
 ---
 ## TL;DR
