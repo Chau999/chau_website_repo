@@ -69,7 +69,6 @@ BA Mathematics and Statistics (First Class)<br>
 
 • **Chau, Siu Lun**\*, Shahine Bouabid\*, and Dino Sejdinovic. "Deconditional Downscaling with Gaussian Processes." arXiv preprint arXiv:2105.12909 (2021).
 
-
 • Pu, X., **Chau, S. L**., Dong, X., & Sejdinovic, D. (2021). Kernel-Based Graph Learning From Smooth Signals: A Functional Viewpoint. IEEE Transactions on Signal and Information Processing over Networks, 7, 192-207
 
 •	**Chau, Siu Lun**, Javier González, and Dino Sejdinovic. "Learning Inconsistent Preferences with Kernel Methods." arXiv preprint arXiv:2006.03847 (2020).
