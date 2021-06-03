@@ -14,7 +14,7 @@ Hi, I'm Alan :) I am a 2nd year DPhil student in Statistical Machine Learning at
 
 <img src="assets/images/meow.jpg"
      alt="meow icon"
-     style="height: 100px; width: 100px;"
+     style="height: 200px; width: 200px;"
       />
 
 
