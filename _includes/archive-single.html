@@ -15,9 +15,9 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
     <!-- Post the title -->
-    <h2 class="archive__item-title" itemprop="headline">
+    <h3 class="archive__item-title" itemprop="headline">
       <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
-    </h2>
+    </h3>
 
     <!-- Talks -->
     {% if post.collection == 'talks' %}
@@ -55,10 +55,10 @@
 
 
     <!-- Print the excerpt -->
-    <p class="archive__item-excerpt" itemprop="description"><font size="-0.1">{{ post.excerpt | markdownify }}</font></p>
+    <p class="archive__item-excerpt" itemprop="description"><font size=2>{{ post.excerpt | markdownify }}</font></p>
 
     <!-- Print the related area-->
-    <p class="archive__item-related_area" itemprop="related_area"><font size="-0.1">{{ post.related_area | markdownify }}</font></p>
+    <p class="archive__item-related_area" itemprop="related_area"><font size=3>{{ post.related_area | markdownify }}</font></p>
 
 
   </article>
