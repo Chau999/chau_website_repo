@@ -6,7 +6,7 @@ excerpt: "We proposed Bayesian Interventional Mean Processes (BayesIMP), an algo
 authors: "S. Chau*, J. Ton*, J. Gonzalez, Y. Teh, D. Sejdinovic"
 date: 2021-05-29
 venue: 'In Prep'
-related_area: "Related Area: Causal Inference, Gaussian Processes, Kernel methods"
+related_area: "Causal Inference, Gaussian Processes, Kernel methods"
 ---
 
 ## TL;DR
