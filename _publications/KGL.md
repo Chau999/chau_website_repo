@@ -6,6 +6,7 @@ excerpt: "We propose a novel graph learning framework that incorporates prior in
 authors: "X. Pu, S. Chau, X. Dong, D. Sejdinovic"
 date: 2021-02-01
 venue: 'IEEE Transactions on Signal and Information Processing over Networks 7, 192-207'
+related_area: "Related Areas: Graph Learning, Kernel methods"
 ---
 
 ## TL;DR

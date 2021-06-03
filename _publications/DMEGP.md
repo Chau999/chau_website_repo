@@ -6,6 +6,7 @@ excerpt: " We propose a Bayesian solution for statistical downscaling which hand
 authors: "S. Chau*, S. Bouabid*, D. Sejdinovic"
 date: 2021-05-27
 venue: 'arXiv:2105.12909'
+related_area: "Related Areas: Statistical Downscaling, Gaussian Processes, Kernel Mean Embeddings"
 ---
 
 ## TL;DR
