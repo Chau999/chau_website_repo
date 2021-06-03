@@ -2,7 +2,7 @@
 title: "Kernel-based Graph Learning From Smooth Signals: A Functional Viewpoint"
 collection: publications
 permalink: /publications/KGL
-excerpt: "•	We propose a novel graph learning framework that incorporates prior information along node and observation side, and in particular the covariates that help to explain the dependency structures in graph signals."
+excerpt: "We propose a novel graph learning framework that incorporates prior information along node and observation side, and in particular the covariates that help to explain the dependency structures in graph signals."
 authors: "X. Pu, S. Chau, X. Dong, D. Sejdinovic"
 date: 2021-02-01
 venue: 'IEEE Transactions on Signal and Information Processing over Networks 7, 192-207'

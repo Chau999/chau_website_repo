@@ -55,7 +55,7 @@
 
 
     <!-- Print the excerpt -->
-    <p class="archive__item-excerpt" itemprop="description"><font size=4>{{ post.excerpt | markdownify }}</font></p>
+    <p class="archive__item-excerpt" itemprop="description"><font size=5>{{ post.excerpt | markdownify }}</font></p>
 
     <!-- Print the related area-->
     <p class="archive__item-related_area" itemprop="related_area"><font size=3>
@@ -63,6 +63,9 @@
       {{ post.related_area | markdownify }}</i>
     </font>
   </p>
+  
+  <hr>
+
 
 
   </article>

@@ -2,7 +2,7 @@
 title: "Deconditional Downscaling with Gaussian Processes"
 collection: publications
 permalink: /publications/DMEGP
-excerpt: "•	We propose a Bayesian solution for statistical downscaling which handles unmatched multi-resolution data through the Deconditional Mean Operator"
+excerpt: "We propose a Bayesian solution for statistical downscaling which handles unmatched multi-resolution data through the Deconditional Mean Operator"
 authors: "S. Chau*, S. Bouabid*, D. Sejdinovic"
 date: 2021-05-27
 venue: 'arXiv:2105.12909'
