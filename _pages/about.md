@@ -29,5 +29,5 @@ Hi, I'm Alan. I am a 2nd year PhD student in Statistical Machine Learning (ML) a
 
 I also enjoy bringing the latest development in AI research and data science to the industry as a freelance ML consultant. I designed the machine learning model behind [giniPredict](https://www.gini.co) which allows business to access powerful explainable forecasting technology with a simple Google sheet interface. I had also worked with [Crop4Sight](https://crop4sight.com) in delivering a potato crop management software that forecast "saleable" crop yield for better returns. The variety of projects and clients I worked with always inspires me with new research ideas.
 
-When I am not working, you'd probably find me in the gym or reading a book at some random local cafe. 
+When I am not working, you'd probably find me in the gym or reading a book at some random local cafe. I also enjoy singing and playing guitar. I recently passed the CSP Brewing Foundation exam so I guess I'm also a barista now.
 
