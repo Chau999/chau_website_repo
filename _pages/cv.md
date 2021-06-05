@@ -75,3 +75,6 @@ BA Mathematics and Statistics (First Class)<br>
 
 •	**Chau, Siu Lun**, Mihai Cucuringu, and Dino Sejdinovic. "Spectral Ranking with Covariates." arXiv preprint arXiv:2005.04035 (2020) <br>
 
+
+## Language Proficiencies 
+• English (IELTS: 8.0/9.0)    • Mandarin (Business level)    • Cantonese (Native)
