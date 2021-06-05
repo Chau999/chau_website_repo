@@ -25,6 +25,9 @@ style="float: left; margin-right: 10px;" -->
 
 ## About Me
 
-Hi, I'm Alan. I am a 2nd year PhD student in Statistical Machine Learning at [The University of Oxford](https://www.stats.ox.ac.uk) working with [Prof. Dino Sejdinovic](http://www.stats.ox.ac.uk/~sejdinov/), [Prof. Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuring/) and [Prof. Xiaowen Dong](https://web.media.mit.edu/~xdong/). I am always fascinated by how mathematics and statistics along with data, can be used to unlock new problems and new solutions in this information era. This is why in my research, I focus on intersections of Kernel methods with a variety of Machine Learning domains such as Explainable AI, Statistical Downscaling, Graph Learning, Causal Inference and Ranking. 
+Hi, I'm Alan. I am a 2nd year PhD student in Statistical Machine Learning (ML) at [The University of Oxford](https://www.stats.ox.ac.uk) working with [Prof. Dino Sejdinovic](http://www.stats.ox.ac.uk/~sejdinov/), [Prof. Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuring/) and [Prof. Xiaowen Dong](https://web.media.mit.edu/~xdong/). I believe that mathematics and statistics can unlock new problems and new solutions for this challenging data-centric era. This also motivates my research interests: focusing on the intersection of Kernel Methods with a variety of ML domains such as Explainable AI, Statistical Downscaling, Graph Learning, Causal Inference and Ranking. 
 
-I also enjoy applying the latest development in AI research and data science to the industry as a free lance consultant.  
+I also enjoy bringing the latest development in AI research and data science to the industry as a freelance consultant. The variety of projects and clients I worked with always sparkles new ideas for my research.
+
+If I am not working, I'd most probably be in the gym or reading a book at some random local cafe. 
+
