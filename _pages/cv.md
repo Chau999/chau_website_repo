@@ -34,7 +34,7 @@ MMATH Mathematics and Statistics <br>
 BA Mathematics and Statistics (First Class)<br>
 •	First Class Honours, Ranked 1st of the year.
 
-## Industry experience
+## Industry experiences
 ---
 
 **2020 - 2021** <br>
@@ -51,7 +51,7 @@ BA Mathematics and Statistics (First Class)<br>
 •	Designed machine learning projects (e.g SnP500 time series analysis, Kickstarter product success rate model etc.) for [*KATE*](https://cambridgespark.com/kate/), a proprietary AI-powered learning and assessment platform for upskilling in Data Science. <br>
 •	Organised bootcamps for the Applied Data Science course where I taught modules on time series, Explainable AI and recommender systems. <br>
 
-## University invovlement
+## University involvements
 ---
 
 **2019 - Present** <br>
@@ -78,6 +78,4 @@ BA Mathematics and Statistics (First Class)<br>
 
 ## Language Proficiencies 
 ---
-<pre>
 • English (IELTS: 8.0/9.0)    • Mandarin (Business level)    • Cantonese (Native)
-<pre>
