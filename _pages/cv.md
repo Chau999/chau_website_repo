@@ -77,4 +77,7 @@ BA Mathematics and Statistics (First Class)<br>
 
 
 ## Language Proficiencies 
+---
+<pre>
 • English (IELTS: 8.0/9.0)    • Mandarin (Business level)    • Cantonese (Native)
+<pre>
