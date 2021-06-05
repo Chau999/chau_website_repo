@@ -29,5 +29,5 @@ Hi, I'm Alan. I am a 2nd year PhD student in Statistical Machine Learning (ML) a
 
 I also enjoy bringing the latest development in AI research and data science to the industry as a freelance consultant. The variety of projects and clients I worked with always sparkles new ideas for my research.
 
-If I am not working, I'd most probably be in the gym or reading a book at some random local cafe. 
+When I am not working, you'd most probably find me in the gym or reading a book at some random local cafe. 
 
