@@ -15,9 +15,9 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
     <!-- Post the title -->
-    <h3 class="archive__item-title" itemprop="headline">
+    <h2 class="archive__item-title" itemprop="headline">
       <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
-    </h3>
+    </h2>
 
     <!-- Talks -->
     {% if post.collection == 'talks' %}
