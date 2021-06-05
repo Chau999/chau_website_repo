@@ -39,7 +39,7 @@ BA Mathematics and Statistics (First Class)<br>
 
 **2020 - 2021** <br>
 **gini** | In-house Machine Learning Consultant <br>
-•	Developed predictive model behind *[ginipredict]*(https://www.gini.co/), a forecasting tool built for decision-makers who aren't data scientists.
+•	Developed predictive model behind [*ginipredict*](https://www.gini.co/), a forecasting tool built for decision-makers who aren't data scientists.
 
 **2019 - Present** <br>
 **Catalyst AI** | Machine Learning Consultant <br>
