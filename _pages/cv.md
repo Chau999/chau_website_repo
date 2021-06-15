@@ -66,6 +66,7 @@ BA Mathematics and Statistics (First Class)<br>
 
 ## Publications
 ---
+• **Chau, S. L.** \*, Ton, J. F \*., González, J., Teh, Y. W., & Sejdinovic, D. (2021). BayesIMP: Uncertainty Quantification for Causal Data Fusion. arXiv preprint arXiv:2106.03477.
 
 • **Chau, Siu Lun**\*, Shahine Bouabid\*, and Dino Sejdinovic. "Deconditional Downscaling with Gaussian Processes." arXiv preprint arXiv:2105.12909 (2021).
 
