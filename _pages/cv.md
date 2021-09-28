@@ -66,9 +66,10 @@ BA Mathematics and Statistics (First Class)<br>
 
 ## Publications
 ---
-• **Chau, S. L.** \*, Ton, J. F \*., González, J., Teh, Y. W., & Sejdinovic, D. (2021). BayesIMP: Uncertainty Quantification for Causal Data Fusion. arXiv preprint arXiv:2106.03477.
 
-• **Chau, Siu Lun**\*, Shahine Bouabid\*, and Dino Sejdinovic. "Deconditional Downscaling with Gaussian Processes." arXiv preprint arXiv:2105.12909 (2021).
+• **S. L. Chau**\*, S. Bouabid, and D. Sejdinovic, Deconditional Downscaling with Gaussian Processes, in Advances in Neural Information Processing Systems (NeurIPS), 2021.
+
+• **S. L. Chau**\*, J.-F. Ton, J. Gonzalez, Y. W. Teh, and D. Sejdinovic, BayesIMP: Uncertainty Quantification for Causal Data Fusion, in Advances in Neural Information Processing Systems (NeurIPS), 2021.
 
 • Pu, X., **Chau, S. L**., Dong, X., & Sejdinovic, D. (2021). Kernel-Based Graph Learning From Smooth Signals: A Functional Viewpoint. IEEE Transactions on Signal and Information Processing over Networks, 7, 192-207
 
