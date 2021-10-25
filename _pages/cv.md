@@ -17,6 +17,14 @@ a.uline {text-decoration:underline;}
 
 ## Education
 ---
+
+**Present**<br>
+**Empirical Inference, Max Planck Institute of Intelligent Systems**<br>
+Research Intern <br>
+*Advisor: Dr. Krikamol Muandet* <br>
+•	Working on the interface of kernel methods and econometrics models.<br>
+
+
 **2018 - Present**<br>
 **University of Oxford**<br>
 DPhil in Statistical Machine Learning <br>
