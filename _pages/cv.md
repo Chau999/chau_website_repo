@@ -41,7 +41,7 @@ BA Mathematics and Statistics (First Class)<br>
 **gini** | In-house Machine Learning Consultant <br>
 •	Developed predictive model behind [*ginipredict*](https://www.gini.co/), a forecasting tool built for decision-makers who aren't data scientists.
 
-**2019 - Present** <br>
+**2019 - 2021** <br>
 **Catalyst AI** | Machine Learning Consultant <br>
 •	(AgriTech) Developed a crop growth forecasting and irrigation scheduling model for an AgriTech software company. <br>
 •	(Fashion Retail) Developed a markdown price optimisation model for seasonal sales for a fashion retail company.<br>
@@ -54,7 +54,7 @@ BA Mathematics and Statistics (First Class)<br>
 ## University involvements
 ---
 
-**2019 - Present** <br>
+**2019 - 2021** <br>
 **Juvenate HK** | Advisor <br>
 •	Provided advices for growing and managing [*Juvenate*](https://www.linkedin.com/company/juvenate-hk/mycompany/), a consultancy for helping social enterprise and NGOs to deliver greater social impact. <br>
 
