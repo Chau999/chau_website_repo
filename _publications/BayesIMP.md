@@ -2,7 +2,7 @@
 title: "BayesIMP: Uncertainty Quantification for Causal Data Fusion"
 collection: publications
 permalink: /publications/bayesimp
-excerpt: "We proposed Bayesian Interventional Mean Processes (BayesIMP), an algorithm which allows one to quantify uncertainty while representing interventional densities in the reproducing kernel Hilbert space (RKHS). <br/> <br/><img src='/assets/images/2scGP-2.png' height=150>"
+excerpt: "We proposed Bayesian Interventional Mean Processes (BayesIMP), an algorithm which allows one to quantify uncertainty while representing interventional densities in the reproducing kernel Hilbert space (RKHS). <br/> <br/><img src='/assets/images/2scGP-2.png' width=300>"
 authors: "S. Chau, J. Ton, J. Gonzalez, Y. Teh, D. Sejdinovic"
 date: 2021-05-29
 venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
