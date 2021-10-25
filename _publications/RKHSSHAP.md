@@ -7,6 +7,7 @@ authors: "S. Chau, J. Gonzalez, D. Sejdinovic"
 date: 2021-10-19
 venue: 'ArXiv: 2110.09167'
 related_area: "Related Areas: Explainable AI, Kernel Mean Embeddings"
+excerpt: "Short description of portfolio item number 1<br/><img src='/assets/images/meow.jpg'>"
 ---
 
 ### TL;DR
