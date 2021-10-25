@@ -75,17 +75,17 @@ BA Mathematics and Statistics (First Class)<br>
 ## Publications
 ---
 
-6.  **S. L. Chau**, J. Gonzalez, and D. Sejdinovic, RKHS-SHAP: Shapley values for Kernel methods, arXiv preprint: 2110.09167 (2021).
+6.  **S. L. Chau**, J. González, and D. Sejdinovic, RKHS-SHAP: Shapley values for Kernel methods, arXiv preprint: 2110.09167 (2021).
 
 5.  **S. L. Chau**, S. Bouabid, and D. Sejdinovic, Deconditional Downscaling with Gaussian Processes, in Advances in Neural Information Processing Systems (NeurIPS), 2021.
 
-4.  **S. L. Chau**, J.-F. Ton , J. Gonzalez, Y. W. Teh, and D. Sejdinovic, BayesIMP: Uncertainty Quantification for Causal Data Fusion, in Advances in Neural Information Processing Systems (NeurIPS), 2021.
+4.  **S. L. Chau**, J.-F. Ton , J. González, Y. W. Teh, and D. Sejdinovic, BayesIMP: Uncertainty Quantification for Causal Data Fusion, in Advances in Neural Information Processing Systems (NeurIPS), 2021.
 
-3.  Pu, X., **Chau, S. L**., Dong, X., & Sejdinovic, D. (2021). Kernel-Based Graph Learning From Smooth Signals: A Functional Viewpoint. IEEE Transactions on Signal and Information Processing over Networks, 7, 192-207
+5.  X. Pu , **S. L. Chau**, X. Dong, & D. Sejdinovic (2021). Kernel-Based Graph Learning From Smooth Signals: A Functional Viewpoint. IEEE Transactions on Signal and Information Processing over Networks, 7, 192-207
 
-2. **Chau, Siu Lun**, Javier González, and Dino Sejdinovic. "Learning Inconsistent Preferences with Kernel Methods." arXiv preprint: 2006.03847 (2020).
+6. **S. L. Chau**, J. González, and D. Sejdinovic. "Learning Inconsistent Preferences with Kernel Methods." arXiv preprint: 2006.03847 (2020).
 
-1. **Chau, Siu Lun**, Mihai Cucuringu, and Dino Sejdinovic. "Spectral Ranking with Covariates." arXiv preprint: 2005.04035 (2020) <br>
+7. **S. L. Chau**, M. Cucuringu, and D. Sejdinovic. "Spectral Ranking with Covariates." arXiv preprint: 2005.04035 (2020) <br>
 
 
 ## Language Proficiencies 
