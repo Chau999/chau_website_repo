@@ -38,7 +38,7 @@
         {{post.date | default: "1900-01-01" | date: "%Y" }}, In Prep
       {% elsif post.application_status == "Under review" %}
        <div><i> {{post.authors}} </i></div>
-        Submitted to  <i>{{ post.venue }}</i>}, currently under review
+        Submitted to  <i>{{ post.venue }}</i>, currently under review
       {% else %}
         <div><i> {{post.authors}} </i></div>
         Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}

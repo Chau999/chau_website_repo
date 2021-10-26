@@ -5,7 +5,8 @@ permalink: /publications/LIPKM
 excerpt: "We propose a probabilistic kernel approach for preferential learning from pairwise duelling data using Gaussian Processes. Different from previous methods, we do not impose a total order on the item space, hence can capture more expressive latent preferential structures such as inconsistent preferences and clusters of comparable items. <br/> <br/><img src='/assets/images/pref-cycles2.png' width=400>"
 authors: "S. Chau, J. Gonzalez, D. Sejdinovic"
 date: 2020-06-06
-venue: 'arXiv:2006.03847'
+venue: 'AISTATS 2022'
+application_status: Under review
 related_area: "Related Areas: Preference Learning, Ranking, Gaussian Process, Kernel Methods"
 ---
 
