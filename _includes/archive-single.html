@@ -36,7 +36,7 @@
       {% if post.venue == 'In Prep' %}
         <div><i> {{post.authors}} </i></div>      
         {{post.date | default: "1900-01-01" | date: "%Y" }}, In Prep
-      {% elsif post.application_status == "Under review"}
+      {% elsif post.application_status == "Under review" %}
        <div><i> {{post.authors}} </i></div>
         Submitted to  <i>{{ post.venue }}</i>}, currently under review
       {% else %}
