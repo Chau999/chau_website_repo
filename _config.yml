@@ -312,6 +312,13 @@ defaults:
     values:
       layout: single-publication
       author_profile: true
+  # _blogs
+  - scope:
+      path: ""
+      type: blogs
+    values:
+      layout: single-blog
+      author_profile: true      
   # _talks
   - scope:
       path: ""
