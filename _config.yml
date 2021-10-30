@@ -20,9 +20,9 @@ title                    : "S.L. CHAU"
 title_separator          : "-"
 name                     : "Siu Lun Chau"
 description              : "PhD student in Machine Learning"
-url                      : https://chau999.github.io
+url                      : # https://chau999.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : Chau999/chau999.github.io
+repository               : # Chau999/chau999.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
