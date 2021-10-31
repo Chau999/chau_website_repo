@@ -285,7 +285,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single-publication
+      layout: single-post
       author_profile: true
   # _pages
   - scope:
