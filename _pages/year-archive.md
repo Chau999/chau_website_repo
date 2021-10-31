@@ -6,8 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-**_NOTE:_**  The note content.
-
 
 {% include base_path %}
 
