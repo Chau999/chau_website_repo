@@ -308,27 +308,27 @@ defaults:
     values:
       layout: single-publication
       author_profile: true
-  # _blogs
-  - scope:
-      path: ""
-      type: blogs
-    values:
-      layout: single-blog
-      author_profile: true      
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: single-talk
-      author_profile: true
-  # _code
-  - scope:
-      path: ""
-      type: code
-    values:
-      layout: single-code
-      author_profile: true
+  # # _blogs
+  # - scope:
+  #     path: ""
+  #     type: blogs
+  #   values:
+  #     layout: single-blog
+  #     author_profile: true      
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: single-talk
+  #     author_profile: true
+  # # _code
+  # - scope:
+  #     path: ""
+  #     type: code
+  #   values:
+  #     layout: single-code
+  #     author_profile: true
 
 
 
