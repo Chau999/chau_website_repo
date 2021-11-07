@@ -21,20 +21,24 @@ a.uline {text-decoration:underline;}
 
 **2018 - Present**<br>
 **University of Oxford**<br>
-DPhil in Statistical Machine Learning <br>
+DPhil in Statistical Machine Learning (3rd year) <br>
 *Advisor: Prof. Dino Sejdinovic, Prof. Mihai Cucuringu, Prof. Xiaowen Dong* <br>
-•	Recipient of the EPSRC & MRC Studentship for DPhil in Machine Learning <br>
+• Research interests include Kernel Methods, Gaussian Processes, Causal Inference, Graph ML, Explainable AI, and Uncertainty Quantification.
+•	Recipient of the EPSRC & MRC Studentship for DPhil in Machine Learning. <br>
 
 
 **2017-2018**<br>
 **University of Oxford**<br>
-MMATH Mathematics and Statistics <br>
-•	First Class Honours, Ranked 2nd of the year
+MMATH Mathematics and Statistics (1st Class Honours) <br>
+•	Ranked 2nd in the year.
+•	Distinction in Master's thesis: Modelling Diseases Trajectories with Infinite Mixture of Gaussian Processes.
+
 
 **2014-2017**<br>
 **University of Oxford**<br>
-BA Mathematics and Statistics (First Class)<br>
-•	First Class Honours, Ranked 1st of the year.
+BA Mathematics and Statistics (1st Class Honours)<br>
+•	Ranked 1st in the year.
+• Distinction in Undergraduate essay: Boosting: AdaBoost and Gradient Boost.
 
 ## Industrial and Research experiences
 ---
@@ -43,17 +47,17 @@ BA Mathematics and Statistics (First Class)<br>
 **Empirical Inference, Max Planck Institute of Intelligent Systems**<br>
 Research Intern <br>
 *Advisor: Dr. Krikamol Muandet* <br>
-•	Working on the interface of kernel methods and econometrics models.<br>
+•	Working on the interface of Bayesian kernel methods and econometrics models.<br>
 
 
 **2020 - 2021** <br>
 **gini** | In-house Machine Learning Consultant <br>
-•	Developed predictive model behind [*ginipredict*](https://www.gini.co/), a forecasting tool built for decision-makers who aren't data scientists.
+• Developed a Gaussian Processes based explainable time series model for [*ginipredict*](https://www.gini.co/), a forecasting tool built for use in Google spreadsheets for decision-makers who aren’t specialists.
 
 **2019 - 2021** <br>
 **Catalyst AI** | Machine Learning Consultant <br>
-•	(AgriTech) Developed a crop growth forecasting and irrigation scheduling model for an AgriTech software company. <br>
-•	(Fashion Retail) Developed a markdown price optimisation model for seasonal sales for a fashion retail company.<br>
+• Developed a crop growth forecasting model using GPs and an optimal irrigation scheduling model using change point detection algorithm in a agricultural tech project. <br>
+• Developed a markdown price optimisation model for seasonal sales in a fashion retail project. <br>
 
 **2017 - Present** <br>
 **Cambridge Spark** | Content Developer & Teaching Fellow <br>
@@ -76,19 +80,24 @@ Research Intern <br>
 ## Publications
 ---
 
-6.  **S. L. Chau**, J. González, and D. Sejdinovic, RKHS-SHAP: Shapley values for Kernel methods, arXiv preprint: 2110.09167 (2021). (Submitted to AISTATS 2022, currently under review.)
+1.  **S. L. Chau**, J. González, and D. Sejdinovic, RKHS-SHAP: Shapley values for Kernel methods, arXiv preprint: 2110.09167 (2021). (Submitted to AISTATS 2022, currently under review.)
 
-5.  **S. L. Chau**, S. Bouabid, and D. Sejdinovic, Deconditional Downscaling with Gaussian Processes, in Advances in Neural Information Processing Systems (NeurIPS), 2021.
+2.  **S. L. Chau**, S. Bouabid, and D. Sejdinovic, Deconditional Downscaling with Gaussian Processes, in Advances in Neural Information Processing Systems (NeurIPS), 2021.
 
-4.  **S. L. Chau**, J.-F. Ton , J. González, Y. W. Teh, and D. Sejdinovic, BayesIMP: Uncertainty Quantification for Causal Data Fusion, in Advances in Neural Information Processing Systems (NeurIPS), 2021.
+3.  **S. L. Chau**, J.-F. Ton , J. González, Y. W. Teh, and D. Sejdinovic, BayesIMP: Uncertainty Quantification for Causal Data Fusion, in Advances in Neural Information Processing Systems (NeurIPS), 2021.
 
-5.  X. Pu , **S. L. Chau**, X. Dong, & D. Sejdinovic (2021). Kernel-Based Graph Learning From Smooth Signals: A Functional Viewpoint. IEEE Transactions on Signal and Information Processing over Networks, 7, 192-207
+4.  X. Pu , **S. L. Chau**, X. Dong, & D. Sejdinovic (2021). Kernel-Based Graph Learning From Smooth Signals: A Functional Viewpoint. IEEE Transactions on Signal and Information Processing over Networks, 7, 192-207
 
-6. **S. L. Chau**, J. González, and D. Sejdinovic. "Learning Inconsistent Preferences with Kernel Methods." arXiv preprint: 2006.03847 (2020). (Submitted to AISTATS 2022, currently under review.)
+5. **S. L. Chau**, J. González, and D. Sejdinovic. "Learning Inconsistent Preferences with Kernel Methods." arXiv preprint: 2006.03847 (2020). (Submitted to AISTATS 2022, currently under review.)
 
-7. **S. L. Chau**, M. Cucuringu, and D. Sejdinovic. "Spectral Ranking with Covariates." arXiv preprint: 2005.04035 (2020) <br>
+6. **S. L. Chau**, M. Cucuringu, and D. Sejdinovic. "Spectral Ranking with Covariates." arXiv preprint: 2005.04035 (2020) <br>
 
 
 ## Language Proficiencies 
 ---
 • English (IELTS: 8.0/9.0)    • Mandarin (Business level)    • Cantonese (Native)
+
+## Software & Packages
+---
+• Python, R, Matlab
+• Numpy, Pandas, Scikit-learn, Pytorch, Gpytorch
