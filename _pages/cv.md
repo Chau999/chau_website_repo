@@ -99,5 +99,5 @@ Research Intern <br>
 
 ## Software & Packages
 ---
-• Python, R, Matlab
+• Python, R, Matlab <br>
 • Numpy, Pandas, Scikit-learn, Pytorch, Gpytorch
