@@ -13,16 +13,10 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-<!-- <a href="../files/cv.pdf" class="uline">Click here for a full pdf copy of my CV</a> -->
+<a href="../files/cv.pdf" class="uline">Click here for a full pdf copy of my CV</a>
 
 ## Education
 ---
-
-**Present**<br>
-**Empirical Inference, Max Planck Institute of Intelligent Systems**<br>
-Research Intern <br>
-*Advisor: Dr. Krikamol Muandet* <br>
-•	Working on the interface of kernel methods and econometrics models.<br>
 
 
 **2018 - Present**<br>
@@ -42,8 +36,15 @@ MMATH Mathematics and Statistics <br>
 BA Mathematics and Statistics (First Class)<br>
 •	First Class Honours, Ranked 1st of the year.
 
-## Industry experiences
+## Industrial and Research experiences
 ---
+
+**Present**<br>
+**Empirical Inference, Max Planck Institute of Intelligent Systems**<br>
+Research Intern <br>
+*Advisor: Dr. Krikamol Muandet* <br>
+•	Working on the interface of kernel methods and econometrics models.<br>
+
 
 **2020 - 2021** <br>
 **gini** | In-house Machine Learning Consultant <br>
