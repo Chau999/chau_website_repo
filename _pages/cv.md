@@ -23,22 +23,22 @@ a.uline {text-decoration:underline;}
 **University of Oxford**<br>
 DPhil in Statistical Machine Learning (3rd year) <br>
 *Advisor: Prof. Dino Sejdinovic, Prof. Mihai Cucuringu, Prof. Xiaowen Dong* <br>
-• Research interests include Kernel Methods, Gaussian Processes, Causal Inference, Graph ML, Explainable AI, and Uncertainty Quantification.
+• Research interests include Kernel Methods, Gaussian Processes, Causal Inference, Graph ML, Explainable AI, and Uncertainty Quantification. <br>
 •	Recipient of the EPSRC & MRC Studentship for DPhil in Machine Learning. <br>
 
 
 **2017-2018**<br>
 **University of Oxford**<br>
 MMATH Mathematics and Statistics (1st Class Honours) <br>
-•	Ranked 2nd in the year.
-•	Distinction in Master's thesis: Modelling Diseases Trajectories with Infinite Mixture of Gaussian Processes.
+•	Ranked 2nd in the year. <br>
+•	Distinction in Master's thesis: Modelling Diseases Trajectories with Infinite Mixture of Gaussian Processes. <br>
 
 
 **2014-2017**<br>
 **University of Oxford**<br>
 BA Mathematics and Statistics (1st Class Honours)<br>
-•	Ranked 1st in the year.
-• Distinction in Undergraduate essay: Boosting: AdaBoost and Gradient Boost.
+•	Ranked 1st in the year.<br>
+• Distinction in Undergraduate essay: Boosting: AdaBoost and Gradient Boost.<br>
 
 ## Industrial and Research experiences
 ---
