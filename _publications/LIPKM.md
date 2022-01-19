@@ -6,7 +6,6 @@ excerpt: "We propose a probabilistic kernel approach for preferential learning f
 authors: "S. Chau, J. Gonzalez, D. Sejdinovic"
 date: 2020-06-06
 venue: 'AISTATS 2022'
-application_status: Under review
 related_area: "Related Areas: Preference Learning, Ranking, Gaussian Process, Kernel Methods"
 ---
 

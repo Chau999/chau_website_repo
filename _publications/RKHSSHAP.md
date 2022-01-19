@@ -5,8 +5,7 @@ permalink: /publications/RKHSSHAP
 excerpt: "We propose an efficient model-specific Shapley value estimation for kernel methods. In addition, we propose a Shapley regulariser that allows modeller to control specific feature's contribution during learning. <br/> <br/><img src='/assets/images/ShapleyPic.png' height=300>"
 authors: "S. Chau, J. Gonzalez, D. Sejdinovic"
 date: 2021-10-19
-venue: 'AISTATS 2022'
-application_status: "Under review"
+venue: 'ICML 2022'
 related_area: "Related Areas: Explainable AI, Kernel Mean Embeddings"
 ---
 
