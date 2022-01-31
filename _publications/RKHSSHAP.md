@@ -6,7 +6,7 @@ excerpt: "We propose an efficient model-specific Shapley value estimation for ke
 authors: "S. Chau, J. Gonzalez, D. Sejdinovic"
 date: 2021-10-19
 venue: 'ICML'
-application_status: 'Under review
+application_status: 'Under review'
 related_area: "Related Areas: Explainable AI, Kernel Mean Embeddings"
 ---
 
