@@ -2,7 +2,8 @@
 title: "Spectral Ranking with Covariates"
 collection: publications
 permalink: /publications/spektrankle
-excerpt: "We consider approaches to the classical problem of establishing a statistical ranking on a given set of items from incomplete and noisy pairwise comparisons, and propose spectral algorithms able to leverage available covariate information about the items through the lens of reproducing kernel Hilbert spaces. <br/> <br/><img src='/assets/images/duel-icon-12.jpg' height=300>"
+excerpt: "
+We consider spectral approaches to the problem of ranking n players given their incomplete and noisy pairwise comparisons, but revisit this classical problem in light of player covariate information. We propose three spectral ranking methods that incorporate player covariates and are based on seriation, low-rank assumption and canonical correlation, respectively. Extensive numerical simulations on both synthetic and real-world datasets demonstrated that our proposed methods compare favorably to existing state-of-the-art covariate-based ranking algorithms. <br/> <br/><img src='/assets/images/duel-icon-12.jpg' height=300>"
 date: 2020-05-08
 venue: 'arXiv:2005.04035'
 authors: "S. Chau, M. Cucuringu, D. Sejdinovic"
