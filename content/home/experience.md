@@ -26,15 +26,16 @@ experience:
     company: Amazon
     company_url: ''
     company_logo: amazon_logo
-    location: California
-    date_start: '2021-01-01'
+    location: London, UK
+    date_start: '2022-06-17'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: 
+    # |2-
+    #     Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+    #     * Analysing
+    #     * Modelling
+    #     * Deploying
         
   - title: Professor of Semiconductor Physics
     company: University X
