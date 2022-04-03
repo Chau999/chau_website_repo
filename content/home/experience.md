@@ -37,8 +37,8 @@ experience:
     #     * Modelling
     #     * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Intern
+    company: Empirical Inference, Max Planck Institute of Intelligent Systems
     company_url: ''
     company_logo: org-x
     location: California
