@@ -33,7 +33,7 @@ education:
   - course: MMATH in Mathematics and Statistics
     institution: University of Oxford
     year: 2017 - 2018
-  - course: BSc in Mathematics and Statistics
+  - course: BA in Mathematics and Statistics
     institution: University of Oxford
     year: 2014 - 2017
 
