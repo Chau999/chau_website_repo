@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: S.L Chau # Website name
-baseURL: 'https://chau999.github.io/' # Website URL
+baseURL: 'https://chau999.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
