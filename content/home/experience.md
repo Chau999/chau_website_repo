@@ -32,11 +32,9 @@ experience:
     description: 
     # |2-
     #     Responsibilities include:
-        
     #     * Analysing
     #     * Modelling
     #     * Deploying
-        
   - title: Research Intern
     company: Empirical Inference, Max Planck Institute of Intelligent Systems
     company_url: 'https://ei.is.mpg.de/'
@@ -77,8 +75,6 @@ experience:
     date_start: '2017-04-01' 
     date_end: '2019-04-01'
     description: Launched and managed Oxford first student-led machine learning consultancy group with over 50 technical consultants.
-
-
 design:
   columns: '2'
 ---
