@@ -38,7 +38,7 @@ experience:
   - title: Research Intern
     company: Empirical Inference, Max Planck Institute of Intelligent Systems
     company_url: 'https://ei.is.mpg.de/'
-    company_logo: 
+    company_logo: mpi_logo
     location: Tubingen, Germany
     date_start: '2021-10-20'
     date_end: ''
@@ -46,7 +46,7 @@ experience:
   - title: Machine Learning Content Developer
     company: Cambridge Spark
     company_url: 'https://www.cambridgespark.com/'
-    company_logo: 
+    company_logo: cspark_logo
     location: London, UK
     date_start: '2017-08-01'
     date_end: ''
@@ -54,7 +54,7 @@ experience:
   - title: Machine Learning Engineering
     company: gini
     company_url: 'https://www.gini.co/'
-    company_logo: 
+    company_logo: gini_logo
     location: Hong Kong
     date_start: '2020-10-01'
     date_end: '2021-01-01'
@@ -70,7 +70,7 @@ experience:
   - title: Founder and Managing Director
     company: Oxford Strategy Group Digital
     company_url: 'https://www.osgdigitallabs.com/'
-    company_logo: 
+    company_logo: OSGD_logo
     location: Oxford, UK
     date_start: '2017-04-01' 
     date_end: '2019-04-01'
