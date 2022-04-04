@@ -34,7 +34,7 @@ publication_short: In *AISTATS*
 abstract: We revisit widely used preferential Gaussian processes (pgp) by Chu et al.(2005) and challenge their modelling assumption that imposes rankability of data items via latent utility function values. We propose a generalisation of pgp which can capture more expressive latent preferential structures in the data and thus be used to model inconsistent preferences, i.e. where transitivity is violated, or to discover clusters of comparable items via spectral decomposition of the learned preference functions. We also consider the properties of associated covariance kernel functions and its reproducing kernel Hilbert Space (RKHS), giving a simple construction that satisfies universality in the space of preference functions. Finally, we provide an extensive set of numerical experiments on simulated and real-world datasets showcasing the competitiveness of our proposed method with state-of-the-art. Our experimental findings support the conjecture that violations of rankability are ubiquitous in real-world preferential data. 
 
 # Summary. An optional shortened abstract.
-summary: We challenge the assumption of rankability of duelling data and derive models for handling inconsistent preferences.
+summary: We challenge the assumption of rankability of duelling data and derive algorithms to model inconsistent preferences. <br /> <br /> *Published in AISTATS 2022*
 
 tags: []
 
