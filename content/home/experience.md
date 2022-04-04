@@ -40,7 +40,7 @@ experience:
   - title: Research Intern
     company: Empirical Inference, Max Planck Institute of Intelligent Systems
     company_url: 'https://ei.is.mpg.de/'
-    company_logo: MPI_logo
+    company_logo: mpi_logo
     location: Tubingen, Germany
     date_start: '2021-10-20'
     date_end: ''
@@ -49,7 +49,7 @@ experience:
   - title: Machine Learning Content Developer
     company: Cambridge Spark
     company_url: 'https://www.cambridgespark.com/'
-    company_logo: cambridge_spark_logo
+    company_logo: cspark_logo
     location: London, UK
     date_start: '2017-08-01'
     date_end: ''
