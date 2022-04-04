@@ -12,7 +12,7 @@ address:
   # postcode: '94305'
   # country: United States
 
-summary: Gave a talk on my work "Uncertainty Quantification for Causal Data Fusion"
+summary: Gave a talk on my work "Deconditional Downscaling with Gaussian processes"
 abstract: "While causal models are becoming one of the mainstays of machine learning, the problem of uncertainty quantification in causal inference remains challenging. In this paper, we study the causal data fusion problem, where datasets pertaining to multiple causal graphs are combined to estimate the average treatment effect of a target variable. As data arises from multiple sources and can vary in quality and quantity, principled uncertainty quantification becomes essential. To that end, we introduce Bayesian Interventional Mean Processes, a framework which combines ideas from probabilistic integration and kernel mean embeddings to represent interventional distributions in the reproducing kernel Hilbert space, while taking into account the uncertainty within each causal graph. To demonstrate the utility of our uncertainty estimation, we apply our method to the Causal Bayesian Optimisation task and show improvements over state-of-the-art methods."
 
 # Talk start and end times.
