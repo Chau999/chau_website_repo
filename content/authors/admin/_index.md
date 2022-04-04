@@ -21,7 +21,7 @@ interests:
 - Kernel methods and Gaussian Processes
 - Ranking and Preference learning
 - Causal Inference and Econometrics
-- Uncertainty modelling
+- Explainability and Uncertainty modelling
 - Graph machine learning
 
 # Education to show in About widget
