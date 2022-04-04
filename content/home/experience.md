@@ -54,7 +54,7 @@ experience:
   - title: Machine Learning Engineering
     company: gini
     company_url: 'https://www.gini.co/'
-    company_logo: 
+    company_logo: gini_logo
     location: Hong Kong
     date_start: '2020-10-01'
     date_end: '2021-01-01'
