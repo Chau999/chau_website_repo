@@ -73,7 +73,7 @@ experience:
     date_start: '2019-04-01'
     date_end: '2020-10-01'
     description:
-    |2-
+    |1-
       * Developed forecasting models for clients ranging from agricultural tech and fashion retail company.
   - title: Founder and Managing Director
     company: Oxford Strategy Group Digital
@@ -83,7 +83,7 @@ experience:
     date_start: '2017-04-01' 
     date_end: '2019-04-01'
     description: 
-    |2- 
+    |1- 
       * Launched and managed Oxford first student-led machine learning consultancy group with over 50 technical consultants.
 design:
   columns: '2'
