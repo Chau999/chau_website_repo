@@ -13,7 +13,7 @@ address:
   # country: United States
 
 summary: Gave an introductory workshop on LaTeX and CV writing using LaTeX.
-abstract: ""
+abstract: "Gave an introductory workshop on LaTeX and CV writing using LaTeX."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
