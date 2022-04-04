@@ -45,6 +45,15 @@ experience:
     date_start: '2021-10-20'
     date_end: 'Present'
     description: Supervised by Dr. Krikamol Muandet, working on the interface of machine learning and econometric modelling. 
+
+  - title: Machine Learning Content Developer
+    company: Cambridge Spark
+    company_url: 'https://www.cambridgespark.com/'
+    company_logo: cambridge_spark_logo
+    location: London, UK
+    date_start: '2017-08-01'
+    date_end: ''
+    description: Supervised by Dr. Krikamol Muandet, working on the interface of machine learning and econometric modelling.     
 design:
   columns: '2'
 ---
