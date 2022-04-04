@@ -62,7 +62,7 @@ experience:
   - title: Machine Learning Consultant
     company: Catalyst AI
     company_url: 'https://catalystlab.ai/'
-    company_logo: 
+    company_logo: cai_logo
     location: Cambridge, UK
     date_start: '2019-04-01'
     date_end: '2020-10-01'
