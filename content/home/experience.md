@@ -70,7 +70,7 @@ experience:
   - title: Founder and Managing Director
     company: Oxford Strategy Group Digital
     company_url: 'https://www.osgdigitallabs.com/'
-    company_logo: 
+    company_logo: OGSD_logo
     location: Oxford, UK
     date_start: '2017-04-01' 
     date_end: '2019-04-01'
