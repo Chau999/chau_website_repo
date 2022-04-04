@@ -5,7 +5,7 @@ event: UCL
 event_url: 
 
 location: Virtual
-address:
+address: ""
   # street: 450 Serra Mall
   # city: Stanford
   # region: CA
