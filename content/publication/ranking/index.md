@@ -1,12 +1,12 @@
 ---
-title: "RKHS-SHAP: Shapley values for kernel methods"
+title: "Spectral Ranking with Covariates"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Javier Gonzalez
+- Mihai Cucuringu
 - Dino Sejdinovic
 
 # Author notes (optional)
@@ -15,11 +15,11 @@ author_notes:
 - 
 -  
 
-date: "2022-06-01T00:00:00Z"
+date: "2022-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-06-01T00:00:00Z"
+publishDate: "2022-03-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,10 +31,10 @@ publication_types: ["3"]
 publication: In *arXiv*
 publication_short: In *arXiv*
 
-abstract: Feature attribution for kernel methods is often heuristic and not individualised for each prediction. To address this, we turn to the concept of Shapley values, a coalition game theoretical framework that has previously been applied to different machine learning model interpretation tasks, such as linear models, tree ensembles and deep networks. By analysing Shapley values from a functional perspective, we propose \textsc{RKHS-SHAP}, an attribution method for kernel machines that can efficiently compute both \emph{Interventional} and \emph{Observational Shapley values} using kernel mean embeddings of distributions. We show theoretically that our method is robust with respect to local perturbations - a key yet often overlooked desideratum for interpretability. Further, we propose \emph{Shapley regulariser}, applicable to a general empirical risk minimisation framework, allowing learning while controlling the level of specific feature's contributions to the model. We demonstrate that the Shapley regulariser enables learning which is robust to covariate shift of a given feature and fair learning which controls the Shapley values of sensitive features.
+abstract: We consider spectral approaches to the problem of ranking n players given their incomplete and noisy pairwise comparisons, but revisit this classical problem in light of player covariate information. We propose three spectral ranking methods that incorporate player covariates and are based on seriation, low-rank structure assumption and canonical correlation, respectively. Extensive numerical simulations on both synthetic and real-world data sets demonstrated that our proposed methods compare favorably to existing state-of-the-art covariate-based ranking algorithms.
 
 # Summary. An optional shortened abstract.
-summary: We propose RKHS-SHAP, a SHAP algorithm designed for kernel methods. It can efficiently compute both interventional and observational shapley values using kernel mean embedding of distributions.
+summary: We consider spectral approaches to the problem of ranking n players given their incomplete and noisy pairwise comparisons, but revisit this classical problem in light of player covariate information.
 
 tags: []
 
