@@ -25,7 +25,7 @@ experience:
   - title: Applied Scientist Intern (Upcoming)
     company: Amazon
     company_url: ''
-    company_logo: amazon_logo
+    company_logo: 
     location: London, UK
     date_start: '2022-06-17'
     date_end: '2022-12-09'
@@ -38,7 +38,7 @@ experience:
   - title: Research Intern
     company: Empirical Inference, Max Planck Institute of Intelligent Systems
     company_url: 'https://ei.is.mpg.de/'
-    company_logo: mpi_logo
+    company_logo: 
     location: Tubingen, Germany
     date_start: '2021-10-20'
     date_end: ''
@@ -46,7 +46,7 @@ experience:
   - title: Machine Learning Content Developer
     company: Cambridge Spark
     company_url: 'https://www.cambridgespark.com/'
-    company_logo: cspark_logo
+    company_logo: 
     location: London, UK
     date_start: '2017-08-01'
     date_end: ''
@@ -54,7 +54,7 @@ experience:
   - title: Machine Learning Engineering
     company: gini
     company_url: 'https://www.gini.co/'
-    company_logo: gini_logo
+    company_logo: 
     location: Hong Kong
     date_start: '2020-10-01'
     date_end: '2021-01-01'
@@ -62,7 +62,7 @@ experience:
   - title: Machine Learning Consultant
     company: Catalyst AI
     company_url: 'https://catalystlab.ai/'
-    company_logo: cai_logo
+    company_logo: 
     location: Cambridge, UK
     date_start: '2019-04-01'
     date_end: '2020-10-01'
