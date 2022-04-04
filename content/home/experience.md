@@ -28,7 +28,7 @@ experience:
     company_logo: amazon_logo
     location: London, UK
     date_start: '2022-06-17'
-    date_end: ''
+    date_end: '2022-12-09'
     description: 
     # |2-
     #     Responsibilities include:
@@ -43,7 +43,7 @@ experience:
     company_logo: MPI_logo
     location: Tubingen, Germany
     date_start: '2021-10-20'
-    date_end: 'Present'
+    date_end: ''
     description: Supervised by Dr. Krikamol Muandet, working on the interface of machine learning and econometric modelling. 
 
   - title: Machine Learning Content Developer
