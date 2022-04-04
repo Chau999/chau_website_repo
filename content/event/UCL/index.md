@@ -17,8 +17,8 @@ abstract: "Reproducing kernel Hilbert spaces (RKHS) provide a powerful framework
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-02-24T10:00:00Z'
-date_end: '2022-02-24T11:00:00Z'
+date: '2021-06-17T13:00:00Z'
+date_end: '2021-06-17T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
