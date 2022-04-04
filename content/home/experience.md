@@ -38,7 +38,7 @@ experience:
   - title: Research Intern
     company: Empirical Inference, Max Planck Institute of Intelligent Systems
     company_url: 'https://ei.is.mpg.de/'
-    company_logo: mpi_logo
+    company_logo: 
     location: Tubingen, Germany
     date_start: '2021-10-20'
     date_end: ''
