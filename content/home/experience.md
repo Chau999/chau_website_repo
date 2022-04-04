@@ -46,7 +46,7 @@ experience:
   - title: Machine Learning Content Developer
     company: Cambridge Spark
     company_url: 'https://www.cambridgespark.com/'
-    company_logo: cspark_logo
+    company_logo: 
     location: London, UK
     date_start: '2017-08-01'
     date_end: ''
@@ -70,7 +70,7 @@ experience:
   - title: Founder and Managing Director
     company: Oxford Strategy Group Digital
     company_url: 'https://www.osgdigitallabs.com/'
-    company_logo: OSGD_logo
+    company_logo: 
     location: Oxford, UK
     date_start: '2017-04-01' 
     date_end: '2019-04-01'
