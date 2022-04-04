@@ -39,13 +39,12 @@ experience:
         
   - title: Research Intern
     company: Empirical Inference, Max Planck Institute of Intelligent Systems
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    company_url: 'https://ei.is.mpg.de/'
+    company_logo: MPI_logo
+    location: Tubingen, Germany
+    date_start: '2021-10-20'
+    date_end: 'Present'
+    description: Supervised by Dr. Krikamol Muandet, working on the interface of machine learning and econometric modelling. 
 design:
   columns: '2'
 ---
