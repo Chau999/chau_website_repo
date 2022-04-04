@@ -53,7 +53,36 @@ experience:
     location: London, UK
     date_start: '2017-08-01'
     date_end: ''
-    description: Supervised by Dr. Krikamol Muandet, working on the interface of machine learning and econometric modelling.     
+    description: Designed data science and machine learning projects and delivered training courses to upskill students and corporates.    
+    
+  - title: Machine Learning Engineering
+    company: gini
+    company_url: 'https://www.gini.co/'
+    company_logo: gini_logo
+    location: Hong Kong
+    date_start: '2020-10-01'
+    date_end: '2021-01-01'
+    description: Developed a Gaussian processes based explainable time series model for giniPredict, a forecasting tool built for use in Google spreadsheets for decision-makers. 
+
+- title: Machine Learning Consultant
+    company: Catalyst AI
+    company_url: 'https://catalystlab.ai/'
+    company_logo: cai_logo
+    location: Cambridge, UK
+    date_start: '2019-04-01'
+    date_end: '2020-10-01'
+    description: Developed forecasting models for clients ranging from agricultural tech and fashion retail company.
+
+- title: Founder and Managing Director
+    company: Oxford Strategy Group Digital
+    company_url: 'https://www.osgdigitallabs.com/'
+    company_logo: OSGD
+    location: Oxford, UK
+    date_start: '2017-04-01' 
+    date_end: '2019-04-01'
+    description: Launched and managed Oxford first student-led machine learning consultancy group with over 50 technical consultants.
+
+
 design:
   columns: '2'
 ---
