@@ -11,7 +11,6 @@ address:
   # region: CA
   # postcode: '94305'
   # country: United States
-
 summary: Gave a talk on my work "Deconditional Downscaling with Gaussian Processes"
 abstract: "Reproducing kernel Hilbert spaces (RKHS) provide a powerful framework, termed kernel mean embeddings, for representing probability distributions, enabling nonparametric statistical inference in a variety of applications. Combining RKHS formalism with Gaussian process modelling, we present a methodology to refine low-resolution (LR) spatial fields with high-resolution (HR) information. This task, known as statistical downscaling, is challenging as the diversity of spatial datasets often prevents direct matching of observations. Yet, when LR samples are modeled as aggregate conditional means of HR samples with respect to a mediating variable that is globally observed, the recovery of the underlying fine-grained field can be framed as taking an "inverse" of the conditional expectation, namely a deconditioning problem. Leveraging this deconditioning perspective, we introduce a Bayesian formulation of statistical downscaling able to handle potentially unmatched multi-resolution spatial fields."
 
