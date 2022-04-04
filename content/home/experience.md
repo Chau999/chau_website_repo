@@ -25,7 +25,7 @@ experience:
   - title: Applied Scientist Intern (Upcoming)
     company: Amazon
     company_url: ''
-    company_logo: 
+    company_logo: amazon_logo
     location: London, UK
     date_start: '2022-06-17'
     date_end: '2022-12-09'
