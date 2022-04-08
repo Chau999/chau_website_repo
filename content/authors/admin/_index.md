@@ -30,10 +30,10 @@ education:
   - course: DPhil in Statistical Machine Learning
     institution: University of Oxford
     year: 2019 - 2023
-  - course: MMATH in Mathematics and Statistics
+  - course: MMATH in Mathematics and Statistics, First Class Honours
     institution: University of Oxford
     year: 2017 - 2018
-  - course: BA in Mathematics and Statistics
+  - course: BA in Mathematics and Statistics, First Class Honours
     institution: University of Oxford
     year: 2014 - 2017
 
