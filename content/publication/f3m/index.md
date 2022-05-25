@@ -1,5 +1,5 @@
 ---
-title: "BayesIMP: Uncertainty Quantification for Causal Data Fusion"
+title: "Giga-scale Kernel Matrix-Vector Multiplication on GPU"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -21,7 +21,7 @@ date: "2022-05-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-05-25T00:00:00Z"
+publishDate: "2022-05-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
