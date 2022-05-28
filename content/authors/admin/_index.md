@@ -83,4 +83,4 @@ I also enjoy applying the latest AI research and data science developments to th
 
 When I’m not working, you can usually find me at the gym or reading at a local cafe. I also feed my creative side by singing and playing the guitar. I also started playing chess after watching Queen’s Gambit. I enjoy trying new things and picking up new hobbies; recently, I passed a brewing exam, so I guess you could add barista to my job title too. -->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
