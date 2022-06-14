@@ -35,6 +35,15 @@ experience:
     #     * Analysing
     #     * Modelling
     #     * Deploying
+  - title: Data Science Consultant
+    company: Ravio
+    company_url: https://ravio.com/
+    company_logo: 
+    location: London, UK
+    date_start: '2022-05-01'
+    date_end:
+    description:
+    
   - title: Research Intern
     company: Empirical Inference, Max Planck Institute of Intelligent Systems
     company_url: 'https://ei.is.mpg.de/'

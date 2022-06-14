@@ -34,7 +34,7 @@ publication_short: In *arXiv*
 abstract: We consider spectral approaches to the problem of ranking n players given their incomplete and noisy pairwise comparisons, but revisit this classical problem in light of player covariate information. We propose three spectral ranking methods that incorporate player covariates and are based on seriation, low-rank structure assumption and canonical correlation, respectively. Extensive numerical simulations on both synthetic and real-world data sets demonstrated that our proposed methods compare favorably to existing state-of-the-art covariate-based ranking algorithms.
 
 # Summary. An optional shortened abstract.
-summary: We consider spectral approaches to the problem of ranking n players given their incomplete and noisy pairwise comparisons, but revisit this classical problem in light of player covariate information.
+summary: We consider spectral approaches to the problem of ranking n players given their incomplete and noisy pairwise comparisons, but revisit this classical problem in light of player covariate information. <br /> <br /> *Published in ECML PKDD 2022*
 
 tags: []
 
