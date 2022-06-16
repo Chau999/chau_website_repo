@@ -43,8 +43,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Software
-  url: http://example.org
+- name: Code
+  url: https://github.com/Chau999/SpectralRankingWithCovariates
 
 url_pdf: ''
 url_code: ''
