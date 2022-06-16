@@ -45,9 +45,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Code
+  url: https://github.com/MrHuff/PREF-SHAP
 
 url_pdf: ''
 url_code: ''

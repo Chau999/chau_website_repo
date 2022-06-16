@@ -41,9 +41,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Code
+  url: https://github.com/shahineb/deconditional-downscaling
 
 url_pdf: ''
 url_code: ''
