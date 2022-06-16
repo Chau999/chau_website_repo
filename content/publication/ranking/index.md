@@ -25,11 +25,11 @@ publishDate: "2022-05-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2022
+publication_short: In ECML PKDD 2022
 
 abstract: We consider spectral approaches to the problem of ranking n players given their incomplete and noisy pairwise comparisons, but revisit this classical problem in light of player covariate information. We propose three spectral ranking methods that incorporate player covariates and are based on seriation, low-rank structure assumption and canonical correlation, respectively. Extensive numerical simulations on both synthetic and real-world data sets demonstrated that our proposed methods compare favorably to existing state-of-the-art covariate-based ranking algorithms.
 
