@@ -38,7 +38,7 @@ experience:
   - title: Data Science Consultant
     company: Ravio
     company_url: https://ravio.com/
-    company_logo: 
+    company_logo: ravio_logo
     location: London, UK
     date_start: '2022-05-01'
     date_end:
@@ -47,7 +47,7 @@ experience:
   - title: Research Intern
     company: Empirical Inference, Max Planck Institute of Intelligent Systems
     company_url: 'https://ei.is.mpg.de/'
-    company_logo: ravio_logo
+    company_logo: mpi_logo
     location: Tubingen, Germany
     date_start: '2021-10-20'
     date_end: ''
