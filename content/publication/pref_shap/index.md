@@ -5,8 +5,8 @@ title: "Explaining Preferences with Shapley Values"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Robert Hu
 - admin
+- Robert Hu
 - Jaime Ferrando Huertas
 - Dino Sejdinovic
 
