@@ -37,7 +37,7 @@ publication_short: In *arXiv*
 abstract: While preference modelling is becoming one of the pillars of machine learning, the problem of preference explanation remains challenging and underexplored. In this paper, we propose \textsc{Pref-SHAP}, a Shapley value-based model explanation framework for pairwise comparison data. We derive the appropriate value functions for preference models and further extend the framework to model and explain \emph{context specific} information, such as the surface type in a tennis game. To demonstrate the utility of \textsc{Pref-SHAP}, we apply our method to a variety of synthetic and real-world datasets and show that richer and more insightful explanations can be obtained over the baseline.
 
 # Summary. An optional shortened abstract.
-summary: We propose Pref-SHAP, a Shapley value-based model explanation framework, to explain and interpret preference models.
+summary: We propose Pref-SHAP, a Shapley value-based model explanation framework, to explain and interpret preference models. <br /> <br /> *Published in NeuRIPS 2021*
 
 tags: []
 
