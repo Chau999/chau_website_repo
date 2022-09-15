@@ -35,7 +35,7 @@ publication_short: In *arXiv*
 abstract: Feature attribution for kernel methods is often heuristic and not individualised for each prediction. To address this, we turn to the concept of Shapley values, a coalition game theoretical framework that has previously been applied to different machine learning model interpretation tasks, such as linear models, tree ensembles and deep networks. By analysing Shapley values from a functional perspective, we propose \textsc{RKHS-SHAP}, an attribution method for kernel machines that can efficiently compute both \emph{Interventional} and \emph{Observational Shapley values} using kernel mean embeddings of distributions. We show theoretically that our method is robust with respect to local perturbations - a key yet often overlooked desideratum for interpretability. Further, we propose \emph{Shapley regulariser}, applicable to a general empirical risk minimisation framework, allowing learning while controlling the level of specific feature's contributions to the model. We demonstrate that the Shapley regulariser enables learning which is robust to covariate shift of a given feature and fair learning which controls the Shapley values of sensitive features.
 
 # Summary. An optional shortened abstract.
-summary: We propose RKHS-SHAP, a SHAP algorithm designed for kernel methods. It can efficiently compute both interventional and observational shapley values using kernel mean embedding of distributions.
+summary: We propose RKHS-SHAP, a SHAP algorithm designed for kernel methods. It can efficiently compute both interventional and observational shapley values using kernel mean embedding of distributions. <br /> <br /> *Published in NeuRIPS 2021*
 
 tags: []
 
