@@ -25,7 +25,7 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: siu.chau@stats.ox.ac.uk
+  email: alanchau@hotmail.co.uk
   phone: 
   address:
     street: 29 St Giles
