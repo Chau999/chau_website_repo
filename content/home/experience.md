@@ -28,6 +28,7 @@ experience:
     company_logo:
     location: Saarbrucken, Germany 
     date_start: '2023-03-01'
+    date_end: '2025-03-01'
     description:
   - title: Applied Scientist Intern
     company: Amazon
