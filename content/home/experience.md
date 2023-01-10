@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral Researcher
+    company: CISPA Helmholtz Center for Information Security
+    company_url: ''
+    company_logo:
+    location: Saarbrucken, Germany 
+    date_start: '2023-03-01'
+    date_end: '2025-03-01'
+    description:
   - title: Applied Scientist Intern
     company: Amazon
     company_url: ''
