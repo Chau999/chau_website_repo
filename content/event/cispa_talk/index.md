@@ -12,7 +12,7 @@ address:
   # postcode: '94305'
   # country: United States
 
-summary: Talking about my research on explaining kernel methods and explaining preference models.
+summary: Presented my research on explaining kernel methods and explaining preference models.
 abstract: Shapley values have been very popular in explainability literature due to its favourable axioms. In this talk, I will introduce my work on investigating explainability for kernel methods and also on preferential models. 
 
 # Talk start and end times.
