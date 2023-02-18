@@ -6,18 +6,19 @@ title: Siu Lun Chau
 superuser: true
 
 # Role/position/tagline
-role: DPhil Candidate in Statistical Machine Learning
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Oxford
-  url: https://www.stats.ox.ac.uk/
+- name: CISPA Helmholtz Center for Information Security
+  url: https://cispa.de
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is about promoting trustworthy machine learning through kernel methods and Gaussian processes.
+bio: I research at the interface of economic theory and machine learning to develop trustworthy Machine Learning methods.
 
 # Interests to show in About widget
 interests:
+- Economics and Experimental design.
 - Kernel methods and Gaussian Processes
 - Ranking and Preference learning
 - Causal Inference and Econometrics
@@ -72,10 +73,13 @@ email: ""
 highlight_name: true
 ---
 
-Hello! I am Siu Lun Chau and my friends call me Alan. I am a final year DPhil student in the [Oxford Computational Statistics and Machine Learning group](https://csml.stats.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/), supervised by [Prof. Dino Sejdinovic](http://www.stats.ox.ac.uk/~sejdinov/), [Prof. Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuring/) and [Prof. Xiaowen Dong](https://web.media.mit.edu/~xdong/). Before my DPhil, I did my Masters and Undergraduate in Mathematics and Statistics at the University of Oxford as well. I have previously interned at Amazon London and the Max Planck Institute for Intelligent Systems.
+Hallo! I am Siu Lun Chau and my friends call me Alan. I am currently a postdoctoral researcher at the [CISPA Helmholtz Center for Information Security](https://cispa.de) working with [Dr. Krikamol Muandet](https://krikamol.org) to develop trustworthy machine learning algorithms drawing insights from economics. From 2018 to 2022, I did my DPhil (PhD) in Statistical Machine Learning at the [University of Oxford](https://www.ox.ac.uk/). I was supervised by 
+[Prof. Dino Sejdinovic](http://www.stats.ox.ac.uk/~sejdinov/), [Prof. Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuring/) and [Prof. Xiaowen Dong](https://web.media.mit.edu/~xdong/). I hold a Masters and Bachelor in Mathematics and Statistics at the University of Oxford as well. I have perviously interned at Amazon London and the Max Planck Institute for Intelligent Systems.
 
-For my research, I mainly work on developing trustworthy Machine Learning techniques through kernel methods and Gaussian processes. I have also worked on broader areas of machine learning including causal inference and econometrics, ranking, preference learning, large scale kernel methods, and graph learning.
+<!-- For my research, I am currently interested in developing trustworthy Machine Learning methods through 
 
-I also enjoy deploying my research to the industry as a freelance ML consultant, as the variety of projects and clients I work with in turn link back into my research, inspiring me with new ideas.
+mainly work on developing trustworthy Machine Learning techniques through kernel methods and Gaussian processes. I have also worked on broader areas of machine learning including causal inference and econometrics, ranking, preference learning, large scale kernel methods, and graph learning. -->
+
+<!-- I also enjoy deploying my research to the industry as a freelance ML consultant, as the variety of projects and clients I work with in turn link back into my research, inspiring me with new ideas. -->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} here.
