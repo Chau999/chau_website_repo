@@ -18,7 +18,7 @@ bio: I research at the interface of economic theory and machine learning to deve
 
 # Interests to show in About widget
 interests:
-- Economics and Experimental design.
+- Economics and Experimental design
 - Kernel methods and Gaussian Processes
 - Ranking and Preference learning
 - Causal Inference and Econometrics
