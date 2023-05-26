@@ -14,7 +14,7 @@ organizations:
   url: https://cispa.de
 
 # Short bio (displayed in user profile at end of posts)
-bio: I research at the interface of economic theory and machine learning to develop trustworthy models.
+bio: I research at the interface of economic theory and machine learning to develop trustworthy AI models.
 
 # Interests to show in About widget
 interests:
@@ -73,13 +73,10 @@ email: ""
 highlight_name: true
 ---
 
-Hallo! I am Siu Lun Chau and my friends call me Alan. I am currently a postdoctoral researcher at the [CISPA Helmholtz Center for Information Security](https://cispa.de) working with [Dr. Krikamol Muandet](http://group.krikamol.org/) to develop trustworthy machine learning algorithms drawing insights from economics. From 2018 to 2022, I did my DPhil (PhD) in Statistical Machine Learning at the [University of Oxford](https://www.ox.ac.uk/). I was supervised by 
-[Prof. Dino Sejdinovic](http://www.stats.ox.ac.uk/~sejdinov/), [Prof. Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuring/) and [Prof. Xiaowen Dong](https://web.media.mit.edu/~xdong/). I hold a Masters and Bachelor in Mathematics and Statistics at the University of Oxford as well. I have perviously interned at Amazon London and the Max Planck Institute for Intelligent Systems.
+I am a postdoctoral researcher at the [CISPA Helmholtz Center for Information Security](https://cispa.de) working with [Dr. Krikamol Muandet](http://group.krikamol.org/) in Saarbrücken, Germany. My research focuses on the developing trustworthy machine learning algorithms, leveraging insights from economics and statistics. Prior to joining CISPA, I did my DPhil in the [Oxford Computational Statisics and Machine Learning Group](https://csml.stats.ox.ac.uk/) at the University of Oxford. I was supervised by [Prof. Dino Sejdinovic](https://sejdino.github.io/), [Prof. Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuring/) and [Prof. Xiaowen Dong](https://web.media.mit.edu/~xdong/). I hold a Masters and Bachelor in Mathematics and Statistics at the University of Oxford as well. I have previously interned at Amazon London and Max Planck Institute for Intelligent Systems.
 
-<!-- For my research, I am currently interested in developing trustworthy Machine Learning methods through 
 
-mainly work on developing trustworthy Machine Learning techniques through kernel methods and Gaussian processes. I have also worked on broader areas of machine learning including causal inference and econometrics, ranking, preference learning, large scale kernel methods, and graph learning. -->
-
-<!-- I also enjoy deploying my research to the industry as a freelance ML consultant, as the variety of projects and clients I work with in turn link back into my research, inspiring me with new ideas. -->
+<!-- Hallo! I am Siu Lun Chau and my friends call me Alan. I am currently a postdoctoral researcher at the [CISPA Helmholtz Center for Information Security](https://cispa.de) working with [Dr. Krikamol Muandet](http://group.krikamol.org/) to develop trustworthy machine learning algorithms drawing insights from economics. From 2018 to 2022, I did my DPhil (PhD) in Statistical Machine Learning at the [University of Oxford](https://www.ox.ac.uk/). I was supervised by  -->
+<!-- [Prof. Dino Sejdinovic](http://www.stats.ox.ac.uk/~sejdinov/), [Prof. Mihai Cucuringu](http://www.stats.ox.ac.uk/~cucuring/) and [Prof. Xiaowen Dong](https://web.media.mit.edu/~xdong/). I hold a Masters and Bachelor in Mathematics and Statistics at the University of Oxford as well. I have perviously interned at Amazon London and the Max Planck Institute for Intelligent Systems. -->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} here.
