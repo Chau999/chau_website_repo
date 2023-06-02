@@ -49,7 +49,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/muandet-lab/ExplainingGaussianProcess'
 url_dataset: ''
 url_poster: ''
 url_project: ''
